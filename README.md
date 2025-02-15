@@ -1,7 +1,9 @@
- 👋 Hi, I’m @chefs-kiss better known as Prof Kim (she/her). I’m interested in data storytelling, bioinformatics, and auditing algorithms.
+ 👋 Hi, I’m @chefs-kiss better known as Prof Kim (she/her). 
  
- 👩‍🏫 I’m currently teaching programming with Python and R at St Olaf College in Northfield, MN. Email mander1 at stolaf dot edu to link up
+ 👩‍🏫 I’m currently teaching programming with Python and R at St Olaf College in Northfield, MN. 
 
+ 🐡 I’m interested in data storytelling, bioinformatics, and auditing algorithms.
+ 
  ⚡ Fun fact: all my pets are named after LotR charactes 🐾
 
 <!---
