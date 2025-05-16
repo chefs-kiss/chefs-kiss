@@ -1,8 +1,6 @@
  👋 Hi, I’m @chefs-kiss better known as Prof Kim (she/her). 
  
  👩‍🏫 I’m currently teaching programming with Python and R
-
- 🐡 I’m interested in data storytelling, bioinformatics, and auditing algorithms.
  
  ⚡ Fun fact: all my pets are named after LotR charactes 🐾
 
