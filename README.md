@@ -1,6 +1,6 @@
  👋 Hi, I’m @chefs-kiss better known as Prof Kim (she/her). 
  
- 👩‍🏫 I’m currently teaching programming with Python and R at St Olaf College in Northfield, MN. 
+ 👩‍🏫 I’m currently teaching programming with Python and R
 
  🐡 I’m interested in data storytelling, bioinformatics, and auditing algorithms.
  
